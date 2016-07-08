@@ -1,4 +1,4 @@
-### KMeans Clustering Toolbox
+### NetCDF Time Average Toolbox
 ##Author: Fabio Veronesi
 tool_exec <- function(in_params, out_params)
 {
